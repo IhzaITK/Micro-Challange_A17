@@ -1,0 +1,1439 @@
+.desktop1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop1-desktop1 {
+  width: 100%;
+  height: 3242px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 154, 203, 1);
+}
+.desktop1-rectangle89 {
+  top: 0px;
+  left: 42px;
+  width: 1351px;
+  height: 2939px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 35px;
+}
+.desktop1-rectangle91 {
+  top: 3px;
+  left: 45px;
+  width: 1345px;
+  height: 231px;
+  position: absolute;
+  border-radius: 32px;
+}
+.desktop1-navbar {
+  top: 31px;
+  left: 98px;
+  width: 1254px;
+  height: 80px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 35px;
+}
+.desktop1-bottom {
+  top: 52px;
+  left: 828px;
+  width: 493px;
+  height: 38px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-bottom-tips {
+  top: 0px;
+  left: 381px;
+  width: 112px;
+  height: 38px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 35px;
+}
+.desktop1-bonttom-issues {
+  top: 0px;
+  left: 254px;
+  width: 112px;
+  height: 38px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 35px;
+}
+.desktop1-bottom-about-us {
+  top: 0px;
+  left: 127px;
+  width: 112px;
+  height: 38px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 35px;
+}
+.desktop1-bottom-home {
+  top: 0px;
+  left: 0px;
+  width: 112px;
+  height: 38px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 35px;
+}
+.desktop1-text {
+  top: 39px;
+  left: 135px;
+  width: 1145px;
+  height: 60px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-text001 {
+  top: 4px;
+  color: rgba(0, 0, 0, 1);
+  width: 113px;
+  height: auto;
+  position: absolute;
+  font-size: 41.79999923706055px;
+  font-style: Regular;
+  text-align: center;
+  font-family: MAZIUS REVIEW 20.09;
+  font-weight: 400;
+  line-height: 55.593997955322266px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text003 {
+  left: 834px;
+  color: rgba(0, 0, 0, 1);
+  bottom: 1px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: MAZIUS REVIEW 20.09;
+  font-weight: 400;
+  line-height: 55.593997955322266px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text005 {
+  color: rgba(0, 0, 0, 1);
+  right: 110px;
+  bottom: 1px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: MAZIUS REVIEW 20.09;
+  font-weight: 400;
+  line-height: 55.593997955322266px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text007 {
+  color: rgb(0, 0, 0);
+  right: -7px;
+  bottom: 1px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: MAZIUS REVIEW 20.09;
+  font-weight: 400;
+  line-height: 55.594px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text008 {
+  top: 43px;
+  left: 856px;
+  color: rgb(0, 0, 0);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: italic;
+  text-align: center;
+  font-family: MAZIUS REVIEW 20.09;
+  font-weight: 400;
+  line-height: 55.594px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text009 {
+  top: 305px;
+  left: 604px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 96px;
+  font-style: Regular;
+  text-align: center;
+  font-family: MAZIUS REVIEW 20.09;
+  font-weight: 400;
+  line-height: 55.593997955322266px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-table1 {
+  top: 450px;
+  left: 131px;
+  width: 541px;
+  height: 725px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(212, 237, 109, 1);
+}
+.desktop1-text011 {
+  left: 29px;
+  color: rgb(0, 0, 0);
+  width: 483px;
+  bottom: 93px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: justify;
+  font-family: MAZIUS REVIEW 20.09;
+  font-weight: 400;
+  line-height: 26.5949px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-rectangle94 {
+  top: 0px;
+  left: 0px;
+  width: 541px;
+  height: 375px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 35px;
+}
+.desktop1-text012 {
+  top: 399px;
+  left: 51px;
+  color: rgb(0, 0, 0);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: italic;
+  text-align: center;
+  font-family: MAZIUS REVIEW 20.09;
+  font-weight: 400;
+  line-height: 72px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-rectangle96 {
+  top: 652px;
+  left: 357px;
+  width: 132px;
+  height: 43px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 35px;
+}
+.desktop1-text013 {
+  color: rgba(0, 0, 0, 1);
+  right: 67px;
+  bottom: 32px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: italic;
+  text-align: left;
+  font-family: MAZIUS REVIEW 20.09;
+  font-weight: 400;
+  line-height: 40.52156448364258px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-table4 {
+  top: 1286px;
+  left: 130px;
+  width: 654px;
+  height: 815px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-rectangle92 {
+  top: 0px;
+  left: 0px;
+  width: 541px;
+  height: 725px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 35px;
+}
+.desktop1-text015 {
+  top: 482px;
+  left: 29px;
+  color: rgb(0, 0, 0);
+  width: 483px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: justify;
+  font-family: MAZIUS REVIEW 20.09;
+  font-weight: 400;
+  line-height: 26.5949px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-rectangle941 {
+  top: 0px;
+  left: 0px;
+  width: 541px;
+  height: 375px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 35px;
+}
+.desktop1-text016 {
+  top: 399px;
+  left: 78px;
+  color: rgb(0, 0, 0);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: italic;
+  text-align: center;
+  font-family: MAZIUS REVIEW 20.09;
+  font-weight: 400;
+  line-height: 72px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-rectangle961 {
+  top: 652px;
+  left: 357px;
+  width: 132px;
+  height: 43px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 35px;
+}
+.desktop1-rectangle97 {
+  top: 772px;
+  left: 522px;
+  width: 132px;
+  height: 43px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 35px;
+}
+.desktop1-text017 {
+  top: 653px;
+  left: 372px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: italic;
+  text-align: left;
+  font-family: MAZIUS REVIEW 20.09;
+  font-weight: 400;
+  line-height: 40.52156448364258px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text019 {
+  color: rgba(0, 0, 0, 1);
+  right: 16px;
+  bottom: 2px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: italic;
+  text-align: left;
+  font-family: MAZIUS REVIEW 20.09;
+  font-weight: 400;
+  line-height: 40.52156448364258px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-table2 {
+  top: 450px;
+  left: 770px;
+  width: 541px;
+  height: 725px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(212, 237, 109, 1);
+}
+.desktop1-text021 {
+  left: 26px;
+  color: rgba(0, 0, 0, 1);
+  width: 483px;
+  bottom: 100px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: justify;
+  font-family: MAZIUS REVIEW 20.09;
+  font-weight: 400;
+  line-height: 26.594900131225586px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-rectangle942 {
+  top: 0px;
+  left: 0px;
+  width: 541px;
+  height: 375px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 35px;
+}
+.desktop1-text023 {
+  top: 399px;
+  left: 109px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: italic;
+  text-align: center;
+  font-family: MAZIUS REVIEW 20.09;
+  font-weight: 400;
+  line-height: 72px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-rectangle962 {
+  top: 652px;
+  left: 357px;
+  width: 132px;
+  height: 43px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 35px;
+}
+.desktop1-text025 {
+  color: rgba(0, 0, 0, 1);
+  right: 65px;
+  bottom: 32px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: italic;
+  text-align: left;
+  font-family: MAZIUS REVIEW 20.09;
+  font-weight: 400;
+  line-height: 40.52156448364258px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-table3 {
+  top: 1286px;
+  left: 770px;
+  width: 541px;
+  height: 725px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(212, 237, 109, 1);
+}
+.desktop1-text027 {
+  left: 41px;
+  color: rgb(0, 0, 0);
+  width: 483px;
+  bottom: 100px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: justify;
+  font-family: MAZIUS REVIEW 20.09;
+  font-weight: 400;
+  line-height: 26.5949px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-rectangle943 {
+  top: 0px;
+  left: 0px;
+  width: 541px;
+  height: 375px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 35px;
+}
+.desktop1-text028 {
+  top: 400px;
+  left: 81px;
+  color: rgb(0, 0, 0);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: italic;
+  text-align: center;
+  font-family: MAZIUS REVIEW 20.09;
+  font-weight: 400;
+  line-height: 50.6449px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-rectangle963 {
+  top: 652px;
+  left: 357px;
+  width: 132px;
+  height: 43px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 35px;
+}
+.desktop1-text029 {
+  color: rgba(0, 0, 0, 1);
+  right: 66px;
+  bottom: 33px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: italic;
+  text-align: left;
+  font-family: MAZIUS REVIEW 20.09;
+  font-weight: 400;
+  line-height: 40.52156448364258px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-rectangle98 {
+  top: 2163px;
+  left: 44px;
+  width: 1349px;
+  height: 776px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 35px;
+}
+.desktop1-group28 {
+  top: 2294px;
+  left: 21px;
+  width: 523px;
+  height: 278px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-komentar {
+  top: 0px;
+  left: 0px;
+  width: 523px;
+  height: 278px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-rectangle99 {
+  top: 0px;
+  left: 67px;
+  width: 391px;
+  height: 278px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 35px;
+}
+.desktop1-text031 {
+  top: 41px;
+  color: rgba(0, 0, 0, 1);
+  width: 523px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Segoe UI;
+  font-weight: 400;
+  line-height: 33.117523193359375px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text037 {
+  top: 189px;
+  left: 214px;
+  color: rgba(0, 0, 0, 1);
+  width: 98px;
+  height: auto;
+  position: absolute;
+  font-size: 19.31855583190918px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Segoe UI;
+  font-weight: 400;
+  line-height: 25.693681716918945px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-bintang {
+  top: 241px;
+  left: 187px;
+  width: 151.3430938720703px;
+  height: 16.19247055053711px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-vector {
+  top: 0px;
+  left: 0px;
+  width: 19px;
+  height: 16px;
+  position: absolute;
+}
+.desktop1-vector01 {
+  top: 0px;
+  left: 33.1171875px;
+  width: 19px;
+  height: 16px;
+  position: absolute;
+}
+.desktop1-vector02 {
+  top: 0px;
+  left: 66.234375px;
+  width: 19px;
+  height: 16px;
+  position: absolute;
+}
+.desktop1-vector03 {
+  top: 0px;
+  left: 99.353515625px;
+  width: 19px;
+  height: 16px;
+  position: absolute;
+}
+.desktop1-vector04 {
+  top: 0px;
+  left: 132.46875px;
+  width: 19px;
+  height: 16px;
+  position: absolute;
+}
+.desktop1-group29 {
+  top: 2294px;
+  left: 521.838623046875px;
+  width: 391.32269287109375px;
+  height: 278px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-komentar1 {
+  top: 0px;
+  left: 0px;
+  width: 391.32269287109375px;
+  height: 278px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 154, 203, 1);
+}
+.desktop1-text039 {
+  top: 41px;
+  left: 6.161376953125px;
+  color: rgba(0, 0, 0, 1);
+  width: 377px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Segoe UI;
+  font-weight: 400;
+  line-height: 33.117523193359375px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text041 {
+  top: 189px;
+  left: 138.161376953125px;
+  color: rgba(0, 0, 0, 1);
+  width: 114px;
+  height: auto;
+  position: absolute;
+  font-size: 19.31855583190918px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Segoe UI;
+  font-weight: 400;
+  line-height: 25.693681716918945px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-bintang1 {
+  top: 241px;
+  left: 119.161376953125px;
+  width: 151.3430938720703px;
+  height: 16.19247055053711px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-vector05 {
+  top: 0px;
+  left: 0px;
+  width: 19px;
+  height: 16px;
+  position: absolute;
+}
+.desktop1-vector06 {
+  top: 0px;
+  left: 33.1171875px;
+  width: 19px;
+  height: 16px;
+  position: absolute;
+}
+.desktop1-vector07 {
+  top: 0px;
+  left: 66.234375px;
+  width: 19px;
+  height: 16px;
+  position: absolute;
+}
+.desktop1-vector08 {
+  top: 0px;
+  left: 99.353515625px;
+  width: 19px;
+  height: 16px;
+  position: absolute;
+}
+.desktop1-vector09 {
+  top: 0px;
+  left: 132.46875px;
+  width: 19px;
+  height: 16px;
+  position: absolute;
+}
+.desktop1-group30 {
+  top: 2294px;
+  left: 955.838623046875px;
+  width: 391.32269287109375px;
+  height: 278px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-komentar2 {
+  top: 0px;
+  left: 0px;
+  width: 391.32269287109375px;
+  height: 278px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-rectangle991 {
+  top: 0px;
+  left: 0px;
+  width: 391px;
+  height: 278px;
+  position: absolute;
+}
+.desktop1-text043 {
+  top: 41px;
+  left: 9.161376953125px;
+  color: rgba(0, 0, 0, 1);
+  width: 374px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Segoe UI;
+  font-weight: 400;
+  line-height: 33.117523193359375px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text045 {
+  top: 189px;
+  left: 146.161376953125px;
+  color: rgba(0, 0, 0, 1);
+  width: 98px;
+  height: auto;
+  position: absolute;
+  font-size: 19.31855583190918px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Segoe UI;
+  font-weight: 400;
+  line-height: 25.693681716918945px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-bintang2 {
+  top: 241px;
+  left: 120.161376953125px;
+  width: 151.3430938720703px;
+  height: 16.19247055053711px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-vector10 {
+  top: 0px;
+  left: 0px;
+  width: 19px;
+  height: 16px;
+  position: absolute;
+}
+.desktop1-vector11 {
+  top: 0px;
+  left: 33.1171875px;
+  width: 19px;
+  height: 16px;
+  position: absolute;
+}
+.desktop1-vector12 {
+  top: 0px;
+  left: 66.234375px;
+  width: 19px;
+  height: 16px;
+  position: absolute;
+}
+.desktop1-vector13 {
+  top: 0px;
+  left: 99.353515625px;
+  width: 19px;
+  height: 16px;
+  position: absolute;
+}
+.desktop1-vector14 {
+  top: 0px;
+  left: 132.46875px;
+  width: 19px;
+  height: 16px;
+  position: absolute;
+}
+.desktop1-rectangle100 {
+  top: 2613px;
+  left: 101px;
+  width: 1246px;
+  height: 279px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 35px;
+}
+.desktop1-text047 {
+  top: 2636px;
+  left: 311px;
+  color: rgba(0, 0, 0, 1);
+  width: 826px;
+  height: auto;
+  position: absolute;
+  font-size: 42.064815521240234px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Segoe UI;
+  font-weight: 700;
+  line-height: 61.185184478759766px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text049 {
+  top: 2695px;
+  left: 264px;
+  color: rgba(0, 0, 0, 1);
+  width: 914px;
+  height: auto;
+  position: absolute;
+  font-size: 26.63987922668457px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Segoe UI;
+  font-weight: 400;
+  line-height: 36.66564178466797px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text051 {
+  top: 2816px;
+  left: 618px;
+  color: rgba(0, 0, 0, 1);
+  width: 198px;
+  height: auto;
+  position: absolute;
+  font-size: 15.975037574768066px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Segoe UI;
+  font-weight: 400;
+  line-height: 21.24679946899414px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-bottom-about-us1 {
+  top: 2757px;
+  left: 663px;
+  width: 112px;
+  height: 38px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 35px;
+}
+.desktop1-text053 {
+  top: 2745px;
+  left: 680px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Segoe UI;
+  font-weight: 400;
+  line-height: 55.593997955322266px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text055 {
+  top: 3029.4814453125px;
+  left: 66px;
+  color: rgba(0, 0, 0, 1);
+  width: 65px;
+  height: auto;
+  position: absolute;
+  font-size: 18.073665618896484px;
+  font-style: Semibold;
+  text-align: left;
+  font-family: Segoe UI;
+  font-weight: 600;
+  line-height: 14.458931922912598px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text057 {
+  top: 3029px;
+  left: 162.392578125px;
+  color: rgba(0, 0, 0, 1);
+  width: 78px;
+  height: auto;
+  position: absolute;
+  font-size: 13.44228744506836px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Segoe UI;
+  font-weight: 400;
+  line-height: 17.350717544555664px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text059 {
+  top: 3049.95703125px;
+  left: 162.392578125px;
+  color: rgba(0, 0, 0, 1);
+  width: 170px;
+  height: auto;
+  position: absolute;
+  font-size: 14.458931922912598px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Segoe UI;
+  font-weight: 400;
+  line-height: 17.350717544555664px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text061 {
+  top: 3071.251953125px;
+  left: 162.392578125px;
+  color: rgba(0, 0, 0, 1);
+  width: 153px;
+  height: auto;
+  position: absolute;
+  font-size: 14.458931922912598px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Segoe UI;
+  font-weight: 400;
+  line-height: 17.350717544555664px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text063 {
+  top: 3092.1376953125px;
+  left: 162.392578125px;
+  color: rgba(0, 0, 0, 1);
+  width: 96px;
+  height: auto;
+  position: absolute;
+  font-size: 14.233011245727539px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Segoe UI;
+  font-weight: 400;
+  line-height: 17.350717544555664px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text065 {
+  top: 3112.837890625px;
+  left: 162.392578125px;
+  color: rgba(0, 0, 0, 1);
+  width: 102px;
+  height: auto;
+  position: absolute;
+  font-size: 13.555248260498047px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Segoe UI;
+  font-weight: 400;
+  line-height: 17.350717544555664px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-group62 {
+  top: 3028px;
+  left: 339px;
+  width: 165.31393432617188px;
+  height: 101.50892639160156px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-text067 {
+  color: rgba(0, 0, 0, 1);
+  width: 100px;
+  height: auto;
+  position: absolute;
+  font-size: 18.073665618896484px;
+  font-style: Semibold;
+  text-align: left;
+  font-family: Segoe UI;
+  font-weight: 600;
+  line-height: 14.458931922912598px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text069 {
+  top: 0.3212890625px;
+  left: 99.58203125px;
+  color: rgba(0, 0, 0, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 14.458931922912598px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Segoe UI;
+  font-weight: 400;
+  line-height: 17.350717544555664px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text071 {
+  top: 21.279296875px;
+  left: 99.58203125px;
+  color: rgba(0, 0, 0, 1);
+  width: 66px;
+  height: auto;
+  position: absolute;
+  font-size: 14.458931922912598px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Segoe UI;
+  font-weight: 400;
+  line-height: 17.350717544555664px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text073 {
+  top: 42.236328125px;
+  left: 99.58203125px;
+  color: rgba(0, 0, 0, 1);
+  width: 46px;
+  height: auto;
+  position: absolute;
+  font-size: 14.458931922912598px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Segoe UI;
+  font-weight: 400;
+  line-height: 17.350717544555664px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text075 {
+  top: 63.201171875px;
+  left: 99.58203125px;
+  color: rgba(0, 0, 0, 1);
+  width: 41px;
+  height: auto;
+  position: absolute;
+  font-size: 14.458931922912598px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Segoe UI;
+  font-weight: 400;
+  line-height: 17.350717544555664px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text077 {
+  top: 84.158203125px;
+  left: 99.58203125px;
+  color: rgba(0, 0, 0, 1);
+  width: 35px;
+  height: auto;
+  position: absolute;
+  font-size: 14.458931922912598px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Segoe UI;
+  font-weight: 400;
+  line-height: 17.350717544555664px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-group63 {
+  top: 3029px;
+  left: 527px;
+  width: 291.0980529785156px;
+  height: 79.52359008789062px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-text079 {
+  color: rgba(0, 0, 0, 1);
+  width: 107px;
+  height: auto;
+  position: absolute;
+  font-size: 16.09685707092285px;
+  font-style: Semibold;
+  text-align: left;
+  font-family: Segoe UI;
+  font-weight: 600;
+  line-height: 14.458931922912598px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text081 {
+  top: 0.3212890625px;
+  left: 123.6796875px;
+  color: rgba(0, 0, 0, 1);
+  width: 142px;
+  height: auto;
+  position: absolute;
+  font-size: 14.458931922912598px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Segoe UI;
+  font-weight: 400;
+  line-height: 17.350717544555664px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text083 {
+  top: 21.279296875px;
+  left: 123.6796875px;
+  color: rgba(0, 0, 0, 1);
+  width: 167px;
+  height: auto;
+  position: absolute;
+  font-size: 14.458931922912598px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Segoe UI;
+  font-weight: 400;
+  line-height: 17.350717544555664px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text085 {
+  top: 42.236328125px;
+  left: 123.6796875px;
+  color: rgba(0, 0, 0, 1);
+  width: 74px;
+  height: auto;
+  position: absolute;
+  font-size: 14.458931922912598px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Segoe UI;
+  font-weight: 400;
+  line-height: 17.350717544555664px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text087 {
+  top: 61.8515625px;
+  left: 123.705078125px;
+  color: rgba(0, 0, 0, 1);
+  width: 96px;
+  height: auto;
+  position: absolute;
+  font-size: 14.458931922912598px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Segoe UI;
+  font-weight: 400;
+  line-height: 17.350717544555664px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text089 {
+  top: 3199px;
+  left: 66px;
+  color: rgba(0, 0, 0, 1);
+  width: 98px;
+  height: auto;
+  position: absolute;
+  font-size: 11.189655303955078px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Segoe UI;
+  font-weight: 400;
+  line-height: 14.882241249084473px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-rectangle101 {
+  top: 2975px;
+  left: 836px;
+  width: 557px;
+  height: 207px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 35px;
+}
+.desktop1-input {
+  top: 3038px;
+  left: 856px;
+  width: 526px;
+  height: 46px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0 0 1.761142373085022px;
+}
+.desktop1-divplaceholder {
+  top: 3.962890625px;
+  left: 0px;
+  width: 526px;
+  height: 36.98398971557617px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop1-text091 {
+  color: rgba(150, 150, 150, 1);
+  width: 92px;
+  height: auto;
+  position: absolute;
+  font-size: 31.7005615234375px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Segoe UI;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-heading3 {
+  top: 2997px;
+  left: 856px;
+  width: 472px;
+  height: 19.011531829833984px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop1-text093 {
+  color: rgba(0, 0, 0, 1);
+  width: 282px;
+  height: auto;
+  position: absolute;
+  font-size: 15.72645092010498px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Segoe UI;
+  font-weight: 400;
+  line-height: 19.02033805847168px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text095 {
+  top: -4.40234375px;
+  left: 293.859375px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 21.033069610595703px;
+  font-style: Regular;
+  text-align: center;
+  font-family: MAZIUS REVIEW 20.09;
+  font-weight: 400;
+  line-height: 27.973981857299805px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-vector15 {
+  top: 2.138671875px;
+  left: 281.78125px;
+  width: 12px;
+  height: 15px;
+  position: absolute;
+}
+.desktop1-div-formnewsletter-checkbox-group {
+  top: 3106px;
+  left: 856px;
+  width: 209px;
+  height: 15.850281715393066px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop1-input1 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1.761142373085022px;
+}
+.desktop1-label {
+  top: 0px;
+  left: 23.77734375px;
+  width: 185px;
+  height: 15.850281715393066px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop1-text097 {
+  top: -0.439453125px;
+  color: rgba(0, 0, 0, 1);
+  width: 185px;
+  height: auto;
+  position: absolute;
+  font-size: 15.72645092010498px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Segoe UI;
+  font-weight: 400;
+  line-height: 15.85028076171875px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text098 {
+  text-decoration: NONE;
+}
+.desktop1-text099 {
+  text-decoration: UNDERLINE;
+}
+.desktop1-text100 {
+  top: 2195px;
+  left: 434px;
+  color: rgba(0, 0, 0, 1);
+  width: 567px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Segoe UI;
+  font-weight: 400;
+  line-height: 40px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-vector16 {
+  top: 2203px;
+  left: 391px;
+  width: 38px;
+  height: 25px;
+  position: absolute;
+}
+.desktop1-vector17 {
+  top: 2202px;
+  left: 1006px;
+  width: 38px;
+  height: 25px;
+  position: absolute;
+}
